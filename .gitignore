@@ -154,6 +154,17 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+
+
+# .pdf files
+*.pdf
+
+# Tar files
+*.tar
+
+# CSV files
+*.csv
+
 # pytype static type analyzer
 .pytype/
 
