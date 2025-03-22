@@ -1,0 +1,12 @@
+pandas
+textblob
+flask
+waitress
+folium
+descartes
+geopandas
+plotly_express
+scikit-learn
+seaborn
+numpy
+-e .

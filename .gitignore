@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# filepath: /home/arsenal/ml/Internshala/food_recomndation_restaurant/.gitignore
+*.csv
+*.tar
+*.pdf
+*.json
+
